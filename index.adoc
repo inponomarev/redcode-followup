@@ -6,6 +6,8 @@ image:logo.png[]
 
 На этой странице собраны полезные ссылки и материалы по мотивам встречи.
 
+Исходник этой страницы в формате AsciiDoctor + настройки Travis CI — https://github.com/inponomarev/redcode-followup/[здесь].
+
 Изучайте и подписывайтесь на мой Twitter https://twitter.com/inponomarev[@inponomarev] :-)
 
 == Часть 1. Николай Поташников: Документация как код
