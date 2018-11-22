@@ -44,12 +44,18 @@ image:logo.png[]
 
 === Слайды
 
-* http://bit.ly/2TAZvh2[Слайды] (Devoops Санкт-Петербург, 14 октября 2018)
+* https://devoops.ru/2018/spb/talks/1xugh7edoymkmwegye0mks/[Слайды] (DevOops Санкт-Петербург, 14 октября 2018)
 
 === Хабрапост
 
 * https://habr.com/post/351974/[Тестирование и непрерывная интеграция для Ansible-ролей при помощи Molecule и Jenkins]
 
-=== Видео
+=== Видео доклада
 
-* http://bit.ly/2znNFhv[Ansible Playbooks Are Code] (Devops Moscow Meetup, 26 сентября 2018 г.)
+* http://bit.ly/2AhrRUn[Ansible Playbooks Are Code] (Devops Moscow Meetup, 26 сентября 2018 г.)
+
+=== Видео докладов про тестирование конфигураций
+
+* https://www.youtube.com/watch?v=KaeEjsAjV6A&index=30&list=PLsVTVVvrKX9tuYyCtL8mASB6IOaa-kRCA&t=0s[Андрей Сатарин — Как проверить систему, не запуская её] (Heisenbug, Москва, 8-9 декабря 2017 г.)
+
+* https://www.youtube.com/watch?v=Tk_nmV-mWOA[Руслан Черемин — Тестирование конфигурации для Java-разработчиков: практический опыт] (Heisenbug, Санкт-Петербург, 17-18 мая 2018 г.)
