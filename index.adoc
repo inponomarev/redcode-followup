@@ -1,0 +1,53 @@
+= Everything as Code: RedCode Meetup 22.11.2018
+
+image:logo.png[]
+
+Спасибо организаторам за приглашение! Спасибо всем побывавшим за тёплый приём и интересные вопросы!
+
+На этой странице собраны полезные ссылки и материалы по мотивам встречи.
+
+Изучайте и подписывайтесь на мой Twitter https://twitter.com/inponomarev[@inponomarev] :-)
+
+== Часть 1. Николай Поташников: Документация как код
+
+=== Инструменты
+
+* https://asciidocfx.com/[AsciiDocFX]
+
+* https://github.com/asciidoctor/asciidoctor-maven-plugin[AsciiDoctor Maven Plugin]
+
+=== Слайды
+
+* https://modest-archimedes-df15c2.netlify.com[Слайды к презентации] (в формате AsciiDoctor + RevealJS)
+
+=== Хабрапост
+
+* https://habr.com/post/416077/[PlantUML — все, что нужно бизнес-аналитику для создания диаграмм в программной документации]
+
+=== Видеозаписи
+
+* http://bit.ly/2OVqwbJ[Почему мы выбрали AsciiDoctor для ведения программной документации] (WriteTheDocs Moscow, 22 августа 2018 г.)
+
+* http://bit.ly/2zgtZvW[Применение практики «Документация как код» для документирования заказных приложений] (SECR Москва, 13 октября 2018 г.)
+
+== Часть 2. Иван Пономарёв: Конфигурация как код
+
+=== Инструменты
+
+* https://www.ansible.com/[Ansible]
+
+* https://molecule.readthedocs.io/en/latest/[Molecule]
+
+* https://www.terraform.io/[Terraform]
+
+=== Слайды
+
+* http://bit.ly/2TAZvh2[Слайды] (Devoops Санкт-Петербург, 14 октября 2018)
+
+=== Хабрапост
+
+* https://habr.com/post/351974/[Тестирование и непрерывная интеграция для Ansible-ролей при помощи Molecule и Jenkins]
+
+=== Видео
+
+* http://bit.ly/2znNFhv[Ansible Playbooks Are Code] (Devops Moscow Meetup, 26 сентября 2018 г.)
